@@ -1,0 +1,14 @@
+C:\Users\Kristiyan\source\repos\Lists Lab\04. Lost of Products\bin\Debug\netcoreapp3.1\04. Lost of Products.exe
+C:\Users\Kristiyan\source\repos\Lists Lab\04. Lost of Products\bin\Debug\netcoreapp3.1\04. Lost of Products.deps.json
+C:\Users\Kristiyan\source\repos\Lists Lab\04. Lost of Products\bin\Debug\netcoreapp3.1\04. Lost of Products.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\Lists Lab\04. Lost of Products\bin\Debug\netcoreapp3.1\04. Lost of Products.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\Lists Lab\04. Lost of Products\bin\Debug\netcoreapp3.1\04. Lost of Products.dll
+C:\Users\Kristiyan\source\repos\Lists Lab\04. Lost of Products\bin\Debug\netcoreapp3.1\04. Lost of Products.pdb
+C:\Users\Kristiyan\source\repos\Lists Lab\04. Lost of Products\obj\Debug\netcoreapp3.1\04. Lost of Products.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\Lists Lab\04. Lost of Products\obj\Debug\netcoreapp3.1\04. Lost of Products.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\Lists Lab\04. Lost of Products\obj\Debug\netcoreapp3.1\04. Lost of Products.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\Lists Lab\04. Lost of Products\obj\Debug\netcoreapp3.1\04. Lost of Products.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\Lists Lab\04. Lost of Products\obj\Debug\netcoreapp3.1\04. Lost of Products.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\Lists Lab\04. Lost of Products\obj\Debug\netcoreapp3.1\04. Lost of Products.dll
+C:\Users\Kristiyan\source\repos\Lists Lab\04. Lost of Products\obj\Debug\netcoreapp3.1\04. Lost of Products.pdb
+C:\Users\Kristiyan\source\repos\Lists Lab\04. Lost of Products\obj\Debug\netcoreapp3.1\04. Lost of Products.genruntimeconfig.cache
